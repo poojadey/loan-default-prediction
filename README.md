@@ -97,6 +97,3 @@ This predictive model can help financial institutions:
 - Reduce loan default rates.
 - Improve credit risk assessment.
 - Support data-driven lending decisions.
-- Enhance overall portfolio quality.
-
----
