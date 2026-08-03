@@ -100,10 +100,3 @@ This predictive model can help financial institutions:
 - Enhance overall portfolio quality.
 
 ---
-
-## 👤 Author
-
-**Pooja Dey**
-
-Master of Operational Research  
-University of Delhi
