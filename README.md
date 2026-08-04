@@ -1,6 +1,6 @@
-# 🏦 Loan Default Prediction Using Machine Learning
+# Loan Default Prediction Using Machine Learning
 
-## 📌 Project Overview
+## Project Overview
 
 Loan default prediction is one of the most important applications of machine learning in the financial industry. This project develops and evaluates multiple supervised machine learning models to predict whether a borrower is likely to default on a loan using demographic, financial, and property-related information.
 
@@ -8,7 +8,7 @@ The goal is to assist financial institutions in identifying high-risk borrowers 
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Financial institutions face significant losses due to loan defaults. Early identification of high-risk applicants enables lenders to make informed lending decisions, reduce financial risk, and improve portfolio quality.
 
@@ -16,7 +16,7 @@ The objective of this project is to build an accurate classification model capab
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Domain:** Banking & Finance
 - **Dataset Type:** Loan Applicant Records
@@ -26,7 +26,7 @@ The dataset contains borrower demographic, financial, credit, and property-relat
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -39,7 +39,7 @@ The dataset contains borrower demographic, financial, credit, and property-relat
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 - Data Collection
 - Data Understanding
@@ -56,7 +56,7 @@ The dataset contains borrower demographic, financial, credit, and property-relat
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 The following models were trained and evaluated:
 
@@ -68,7 +68,7 @@ The following models were trained and evaluated:
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 | Model | Accuracy | ROC-AUC |
 |-------|---------:|---------:|
@@ -76,11 +76,11 @@ The following models were trained and evaluated:
 | Logistic Regression (Scaled) | 75.3% | 0.500 |
 | Decision Tree | 90.9% | 0.891 |
 | Random Forest | 91.3% | 0.867 |
-| **XGBoost** ⭐ | **92.2%** | **0.908** |
+| **XGBoost** | **92.2%** | **0.908** |
 
 ---
 
-## 📈 Key Results
+## Key Results
 
 - Achieved **92.2% accuracy** using XGBoost.
 - Achieved **0.908 ROC-AUC**, demonstrating strong class discrimination.
@@ -89,7 +89,7 @@ The following models were trained and evaluated:
 
 ---
 
-## 💡 Business Impact
+## Business Impact
 
 This predictive model can help financial institutions:
 
